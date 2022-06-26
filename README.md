@@ -11,7 +11,7 @@ git clone https://github.com/Farzan-I/rps-challenge.git
 ```
 localhost:9292
 ```
-* Enter your name (if you don't you can't continue), click on "Let's play!" and play until your heart desires!
+* Enter your name (if you don't, you can't continue), click on "Let's play!" and play until your heart desires!
 
 <br>
 
