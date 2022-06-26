@@ -1,7 +1,6 @@
 # Rock, Paper, Scissors Challenge
 
 ## Instructions to install and play the game
--------
 
 * Clone this repo in your desired directory by doing the following in the terminal: 
 ```
