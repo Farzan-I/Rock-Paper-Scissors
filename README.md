@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Challenge
 
-[Task](#task)
+[Task](#task) | [Basic Rules](#basic-rules) | [Demo](#demo) | [Conclusion](#conclusion) | [Improvements if not on a time constraint](#improvements-if-not-on-a-time-constraint) | [Bonus levels](#bonus-levels)
 
 ## Task
 
@@ -91,11 +91,12 @@ localhost:9292
 * Make the game two player by allowing two players to entrer their names on the home page and also select their weapons in the play area
 * Incorporate the 'rock, paper, scissors, lizard, spock' and make the game more complicated and appealing
 
-## Bonus level 1: Multiplayer
+## Bonus Levels
+### Bonus level 1: Multiplayer
 **_Did not complete_**
 Change the game so that two marketeers can play against each other ( _yes there are two of them_ ).
 
-## Bonus level 2: Rock, Paper, Scissors, Spock, Lizard
+### Bonus level 2: Rock, Paper, Scissors, Spock, Lizard
 **_Did not complete_**
 
 Use the _special_ rules ( _you can find them here http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock_ )
