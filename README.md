@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Challenge
 
-[Task](#task) | [Basic Rules](#basic-rules) | [Instructions](#instructions) | [Demo](#demo) | [Conclusion](#conclusion) | [Improvements if not on a time constraint](#improvements-if-not-on-a-time-constraint) | [Bonus levels](#bonus-levels)
+| [Task](#task) | [Basic Rules](#basic-rules) | [Instructions](#instructions) | [Demo](#demo) | [Conclusion](#conclusion) | [Improvements if not on a time constraint](#improvements-if-not-on-a-time-constraint) | [Bonus levels](#bonus-levels) |
 
 ## Task
 
