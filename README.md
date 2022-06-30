@@ -55,7 +55,6 @@ In code review we'll be hoping to see:
 Reviewers can potentially be using this [code review rubric](docs/review.md).
 
 ## Demo
--------
 ### Home page
 ![home_page](public/images/home.png)
 
@@ -86,7 +85,6 @@ Reviewers can potentially be using this [code review rubric](docs/review.md).
 * A message was given for when the player won, drew or lost to the computer - I would have tried to incorporate javascript to make the messages more dynamic and eye catching
 
 ## Improvements if not on a time constraint
------
 * Make the home page more eye catchy
 * Allow the user to have a better experience i.e. see a better win/loss/draw message by using javascript and maybe CSS
 * Make the buttons more appealing and less like 1990's/2000's style by using capybara properly and javascript with CSS
