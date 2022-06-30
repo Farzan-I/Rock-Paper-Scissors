@@ -16,7 +16,6 @@ localhost:9292
 <br>
 
 ## Task
--------
 
 The Makers Academy Marketing Array ( **MAMA** ) have asked to provide a game for them. Their daily grind is pretty tough and they need time to steam a little.
 
@@ -42,11 +41,10 @@ Hints on functionality
 - a winner will be declared
 
 ## Basic Rules
------
 
-- Rock beats Scissors
-- Scissors beats Paper
-- Paper beats Rock
+* Rock beats Scissors
+* Scissors beats Paper
+* Paper beats Rock
 
 In code review we'll be hoping to see:
 
@@ -78,8 +76,7 @@ Reviewers can potentially be using this [code review rubric](docs/review.md).
 
 
 ## Conclusion
------
-* I managed to make several files to be able to incorporate the classes and the tests that I needed
+* I tried to use single-responsibility principle and incorporate the classes and the tests that I needed
 * These were split into features and unit test folders as well as a 'lib' folder to have all the game class as well as the player class
 * The 'app.rb' file that has the specifications for the game is present in the parent folder to incorporate all of the spec and lib folder files in order to run the game
 * I had difficulty trying to apply a gradient background on the home page and therefore made it a simple, slick white background
@@ -96,10 +93,11 @@ Reviewers can potentially be using this [code review rubric](docs/review.md).
 * Make the game two player by allowing two players to entrer their names on the home page and also select their weapons in the play area
 * Incorporate the 'rock, paper, scissors, lizard, spock' and make the game more complicated and appealing
 
-## Bonus level 1: Multiplayer - **_Did not complete_**
-
+## Bonus level 1: Multiplayer
+**_Did not complete_**
 Change the game so that two marketeers can play against each other ( _yes there are two of them_ ).
 
-## Bonus level 2: Rock, Paper, Scissors, Spock, Lizard - **_Did not complete_**
+## Bonus level 2: Rock, Paper, Scissors, Spock, Lizard
+**_Did not complete_**
 
 Use the _special_ rules ( _you can find them here http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock_ )
