@@ -85,7 +85,7 @@ localhost:9292
 ## Improvements if not on a time constraint
 * Make the home page more eye catchy
 * Allow the user to have a better experience i.e. see a better win/loss/draw message by using javascript and maybe CSS
-* Make the buttons more appealing and less like 1990's/2000's style by using capybara properly and javascript with CSS
+* Make the buttons more appealing and less like 1990's/2000's style by using capybara and javascript with CSS
 * Make the game two player by allowing two players to entrer their names on the home page and also select their weapons in the play area
 * Incorporate the 'rock, paper, scissors, lizard, spock' and make the game more complicated and appealing
 
