@@ -72,8 +72,6 @@ localhost:9292
 ### Battleground - draw
 ![battleground_draw](public/images/battleground_draw.png)
 
-<br>
-
 ## Conclusion
 * I tried to use single-responsibility principle and incorporate the classes and the tests that I needed
 * These were split into features and unit test folders as well as a 'lib' folder to have all the game class as well as the player class
