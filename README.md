@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Challenge
 
-[Task](#task) | [Basic Rules](#basic-rules) | [Demo](#demo) | [Conclusion](#conclusion) | [Improvements if not on a time constraint](#improvements-if-not-on-a-time-constraint) | [Bonus levels](#bonus-levels)
+[Task](#task) | [Basic Rules](#basic-rules) | [Instructions](#instructions) | [Demo](#demo) | [Conclusion](#conclusion) | [Improvements if not on a time constraint](#improvements-if-not-on-a-time-constraint) | [Bonus levels](#bonus-levels)
 
 ## Task
 
@@ -38,7 +38,8 @@ I would like to be able to play rock/paper/scissors
 
 Reviewers can potentially be using this [code review rubric](docs/review.md).
 
-## Instructions to install and play the game
+## Instructions 
+### To install and play the game:
 
 1. Clone this repo in your desired directory by doing the following in the terminal: 
 ```
