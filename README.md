@@ -1,5 +1,28 @@
 # Rock, Paper, Scissors Challenge
 
+```
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+    _______
+---'   ____)____
+          ______)
+       __________)
+      (____)
+---.__(___)
+```
+
 | [Task](#task) | [Basic Rules](#basic-rules) | [Instructions](#instructions) | [Demo](#demo) | [Conclusion](#conclusion) | [Improvements if not on a time constraint](#improvements-if-not-on-a-time-constraint) | [Bonus levels](#bonus-levels) |
 
 ## Task
