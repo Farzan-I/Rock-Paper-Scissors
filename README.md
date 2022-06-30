@@ -39,16 +39,16 @@ Reviewers can potentially be using this [code review rubric](docs/review.md).
 
 ## Instructions to install and play the game
 
-* Clone this repo in your desired directory by doing the following in the terminal: 
+1. Clone this repo in your desired directory by doing the following in the terminal: 
 ```
 git clone https://github.com/Farzan-I/rps-challenge.git
 ```
-* Run `bundle` to install all the gemfiles 
-* Run `rackup` in the directory, then go to your desired browser and enter:
+2. Run `bundle` to install all the gemfiles 
+3. Run `rackup` in the directory, then go to your desired browser and enter:
 ```
 localhost:9292
 ```
-* Enter your name (if you don't, you can't continue), click on "Let's play!" and play until your heart desires!
+4. Enter your name (if you don't, you can't continue), click on "Let's play!" and play until your heart desires!
 
 <br>
 
@@ -71,6 +71,7 @@ localhost:9292
 ### Battleground draw
 ![battleground_draw](public/images/battleground_draw.png)
 
+<br>
 
 ## Conclusion
 * I tried to use single-responsibility principle and incorporate the classes and the tests that I needed
