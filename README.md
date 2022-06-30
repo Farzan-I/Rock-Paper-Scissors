@@ -1,26 +1,10 @@
 # Rock, Paper, Scissors Challenge
 
-## Instructions to install and play the game
-
-* Clone this repo in your desired directory by doing the following in the terminal: 
-```
-git clone https://github.com/Farzan-I/rps-challenge.git
-```
-* Run `bundle` to install all the gemfiles 
-* Run `rackup` in the directory, then go to your desired browser and enter:
-```
-localhost:9292
-```
-* Enter your name (if you don't, you can't continue), click on "Let's play!" and play until your heart desires!
-
-<br>
-
 ## Task
 
-The Makers Academy Marketing Array ( **MAMA** ) have asked to provide a game for them. Their daily grind is pretty tough and they need time to steam a little.
+The Makers Academy Marketing Array ( **MAMA** ) have asked to provide a game for them. Their daily grind is pretty tough and they need time to unwind a little.
 
 The task is to provide a _Rock, Paper, Scissors_ game for them so they can play on the web with the following user stories:
-
 ```
 As a marketeer
 So that I can see my name in lights
@@ -32,8 +16,7 @@ So that I can enjoy myself away from the daily grind
 I would like to be able to play rock/paper/scissors
 ```
 
-Hints on functionality
-
+#### Requirements
 - the marketeer should be able to enter their name before the game
 - the marketeer will be presented the choices (rock, paper and scissors)
 - the marketeer can choose one option
@@ -53,6 +36,21 @@ In code review we'll be hoping to see:
 * The code is elegant: every class has a clear responsibility, methods are short etc.
 
 Reviewers can potentially be using this [code review rubric](docs/review.md).
+
+## Instructions to install and play the game
+
+* Clone this repo in your desired directory by doing the following in the terminal: 
+```
+git clone https://github.com/Farzan-I/rps-challenge.git
+```
+* Run `bundle` to install all the gemfiles 
+* Run `rackup` in the directory, then go to your desired browser and enter:
+```
+localhost:9292
+```
+* Enter your name (if you don't, you can't continue), click on "Let's play!" and play until your heart desires!
+
+<br>
 
 ## Demo
 ### Home page
