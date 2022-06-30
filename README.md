@@ -1,5 +1,7 @@
 # Rock, Paper, Scissors Challenge
 
+[Task](#task)
+
 ## Task
 
 The Makers Academy Marketing Array (**MAMA**) have asked to provide a game for them. Their daily grind is pretty tough and they need time to unwind a little.
